@@ -3,8 +3,15 @@ bender
 
 
  Default prefix = ; | [] = optional argument, () = required argument
-
-
+ # configuration
+- antinuke
+- messagelog
+- antiraid 
+- welcome
+- joindm
+- customcommand
+- autoresponder 
+- joindm
  # Information
 
 - invite 
