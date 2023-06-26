@@ -7,6 +7,15 @@ bender
 
  # Information
 
-- invite - shows bot invite
-- feedback - sends a feedback to a channel
-- 
+- invite 
+- feedback
+- bug report 
+- serverinfo
+- youngest 
+- oldest 
+- donate
+- help
+- botinfo 
+- uptime 
+- version 
+- serverinfo 
